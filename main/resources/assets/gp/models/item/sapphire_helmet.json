@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gp:items/sapphire_helmet"
+        
+    }
+}

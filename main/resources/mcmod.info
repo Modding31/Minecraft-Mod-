@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gp",
+  "name": "Gears Plus Mod",
+  "description": "The name says it all! Just added gears and things for more fun.",
+  "version": "${0.1}",
+  "mcversion": "${1.12}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Conner"],
+  "credits": "Myself and my friend for suggestions.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,40 @@
+//Materials
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+
+//Ores
+tile.ruby_ore.name=Ruby Ore
+tile.sapphire_ore.name=Sapphire Ore
+
+//Material Blocks
+tile.ruby_block.name=Ruby Block
+tile.sapphire_block.name=Sapphire Block
+
+//Creative Tabs
+itemGroup.gearsplustab=Gears Plus Mod
+
+//Armor
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+
+item.sapphire_helmet.name=Sapphire Helmet
+item.sapphire_chestplate.name=Sapphire Chestplate
+item.sapphire_leggings.name=Sapphire Leggings
+item.sapphire_boots.name=Sapphire Boots
+
+//Tools
+item.ruby_axe.name=Ruby Axe
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_sword.name=Ruby Sword
+
+item.sapphire_axe.name=Sapphire Axe
+item.sapphire_hoe.name=Sapphire Hoe
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.sapphire_shovel.name=Sapphire Shovel
+item.sapphire_sword.name=Sapphire Sword
+
+
